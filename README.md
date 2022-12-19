@@ -20,7 +20,3 @@ Run the code using the command python filename.py.
 Disclaimer
 Please note that web scraping can be against the terms of service of some websites, and could potentially result in IP bans or other consequences. Use the code in this repository at your own risk, and make sure to read and adhere to the terms of service of any website you are scraping.
 
-
-
-
-Regenerate response
